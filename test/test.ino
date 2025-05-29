@@ -7,7 +7,7 @@ void test()
 }
 
 
-//new feature1 needed here
+//new feature1 is added
 
 
 //new feature2 needed here
